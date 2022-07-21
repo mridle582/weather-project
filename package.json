@@ -1,0 +1,22 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "A simple weather webpage which uses the OpenWeather API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mridle582/weather-project.git"
+  },
+  "author": "James Finn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mridle582/weather-project/issues"
+  },
+  "homepage": "https://github.com/mridle582/weather-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
